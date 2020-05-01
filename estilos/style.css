@@ -12,6 +12,31 @@ main {
     background-color: white;
     width: 600px;
     margin: auto;
-    padding: 20px;
-    box-shadow: 5px 5px 8px black;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+}
+
+h1 {
+    font-size: 2em;
+    color:rgb(50, 0, 112)
+}
+
+h2 {
+    font-size: 1.5em;
+    color:rgb(50, 0, 112)
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(50, 0, 112);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
 }
